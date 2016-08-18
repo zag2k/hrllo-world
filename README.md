@@ -10,3 +10,5 @@ new readme feature
 desktop edit
 
 new desktop edit
+
+new visual studio edit
